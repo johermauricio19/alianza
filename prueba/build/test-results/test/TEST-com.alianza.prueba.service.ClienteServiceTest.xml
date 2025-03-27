@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.alianza.prueba.service.ClienteServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-26T23:52:12.750Z" hostname="CO-PF4M4J38" time="1.107">
+  <properties/>
+  <testcase name="testGetAllClientes()" classname="com.alianza.prueba.service.ClienteServiceTest" time="1.086"/>
+  <testcase name="testSaveCliente()" classname="com.alianza.prueba.service.ClienteServiceTest" time="0.01"/>
+  <testcase name="testSearchClientes()" classname="com.alianza.prueba.service.ClienteServiceTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
